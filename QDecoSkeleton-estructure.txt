@@ -1,0 +1,7 @@
+QDecoSkeleton/
+├── qdecoskeleton.py       # Clase principal QDecoSkeleton (PyOpenCL)
+├── example.py             # Ejemplo de uso con un caso sencillo
+├── requirements.txt       # Dependencias: pyopencl, numpy
+├── README.md              # Documentación y guía de instalación/ejecución
+├── .gitignore             # Excluir archivos temporales de Python/OpenCL
+└── kernels.cl             # (Opcional) Kernels separados, pero en qdecoskeleton.py ya están embebidos
